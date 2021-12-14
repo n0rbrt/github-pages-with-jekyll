@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Sociedades Digitales"
 ---
+A continuación les comparto el material de cursada, reflexión y debate utilizado en mis clases. 
 
-I'm glad you are here. I plan to talk about ...
+
